@@ -78,8 +78,3 @@ FROM insurance_expenditure_greece_2008_2020
 WHERE category_type = 'region' 
 GROUP BY segment, year 
 ORDER BY segment, year;
-
-
-
-
-
