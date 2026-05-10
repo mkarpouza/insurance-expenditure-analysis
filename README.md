@@ -13,8 +13,8 @@ It provides information on:
 
 ## Tools
 
-- Excel (initial data preparation)
-- SQL (data exploration and aggregation)
+- Excel for initial data preparation and dataset storage
+- SQL for data exploration and aggregation
 - Python (pandas, matplotlib) for data analysis and visualization
 
 ## Key Insights
